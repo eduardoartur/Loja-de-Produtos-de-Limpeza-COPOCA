@@ -1,0 +1,46 @@
+.mac{
+   	background-color: white;
+	color: black;
+	padding:20 px;
+}
+#header{
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 5px; 
+}
+#nav1{
+	line-height: 30px;
+	background-color: #66CDAA;
+	width: 30%;
+	height: 100%;
+	float:left;
+	padding: 30px;
+	color: white;
+}
+#paginas{
+	background-color:#66CDAA;
+	width: 100%;
+	height: 40%;
+	padding: 4%;
+	text-align:left;
+	}
+#section_conteudo{
+	background-color:white;
+	color: black;
+	width: 67%;
+	height: 100%;
+	float: right;
+	padding: 80px;
+	text-align:left;
+	}
+#footer1{
+	background-color: #66CDAA;
+	color: white;
+	clear:both;
+	text-align:center;
+	padding:3px;
+}
+body{
+	background-image:url(outline-seamless-cleaning-products-equipment-background-pattern-home-supplies-vector-set-70177375.jpg);
+}
